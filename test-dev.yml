@@ -9,4 +9,4 @@ spring:
           username: 15821872779@qq.com
           password: 134679
 server:
-  port: 10088
+  port: 1008811
